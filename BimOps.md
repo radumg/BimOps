@@ -67,7 +67,7 @@ Having a common space to operate in and collaborate will give these yet-undefine
 ### BimOps in practice
 It’s quite clear that as design & computational complexity of projects increases, the overlap between BIM operations and IT & software development will continue to increase.
 
-Looking at our DevOps cousins, we can learn a lot from their hard work and jump-start progress.
+Looking at our DevOps cousins, we can learn a lot from their hard work and jump-start own progress.
 
 As first steps, we should strive to have more :
 
@@ -75,6 +75,17 @@ As first steps, we should strive to have more :
 - Automation
 - Purpose-made tools
 - Quantifiable metrics
+
+### BimOps roles
+Considering all the above, it should be emphasised & re-iterated that BimOps is a cross-disciplinary community of people whose roles could be as varied as :
+
+- computational designer
+- BIM manager
+- information manager
+- technical director
+- facade specialist
+- planning assesor
+- etc
 
 ### Get involved
 The above ideas and notes are meant to kick-start some much-needed discussions around roles, expertise, training, where we’re headed with BIM and who is leading that charge. *(hint : it should not be software vendors)* 
