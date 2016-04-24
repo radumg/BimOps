@@ -40,7 +40,7 @@ I personally see Level 2 as the precursor to BimOps : precursor because it has 
 ## BimOps
 This brings us to the whole reason of this post : BimOps.
 
-I think simply emulating the DevOps semantic model, BimOps could be defined as the link between BIM and operation of a project. However, given the multifaceted nature of BIM, the multiple (neverending) stages and complexity of projects, BimOps would quite obviously need to be the link between each stage of a project as well as the overarching process itself.
+I think simply by emulating the DevOps semantic model, BimOps could be defined as the link between BIM and operation of a project. However, given the multifaceted nature of BIM, the multiple (neverending) stages and complexity of projects, BimOps would quite obviously need to be the link between each stage of a project as well as the overarching process itself.
 
 Why mention it as a link between each stage ? Because BimOps does and should handle the transition between each stage of a project’s lifecycle.
 
